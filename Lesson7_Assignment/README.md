@@ -13,8 +13,8 @@ Nickolas Richard
 In this assignment I was asked to create a recipe display.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+
+https://njr13.github.io/lesson7_jquery/Lesson7_Assignment/
 
 ### Lessons Learned in the Assignment:
 1. Learned how to select elements within jQuery. 
