@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 31, 2017
 
 ### Student Name:  
-(First and Last Name)
+Nickolas Richard
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment I was asked to create a recipe display.
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Learned how to select elements within jQuery. 
+2. Learned about the DOM with jQuery methods.
+3. Learned how to specify an event handler.
